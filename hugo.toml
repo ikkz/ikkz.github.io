@@ -1,0 +1,7 @@
+baseURL = 'https://netus.fun/'
+languageCode = 'zh-CN'
+title = "Leo Y's blog"
+theme = 'archie'
+
+[params]
+	mode="dark"
